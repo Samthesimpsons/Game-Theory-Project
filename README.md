@@ -9,7 +9,7 @@ Urban road planning in Singapore has changed over recent years, with an increase
 
 A concern about prioritising bike lanes is that the car lanes would get more congested. Still, we hypothesise that the Law of Induced Demand would lower car usage and thus reduce the travel time of road users. Therefore, we seek to formulate a simple road network with game theory and analyse if our hypothesis is true. Specifically, this study will be using the scenario of our own group member who drives and cycles to school, as a way to formulate our traffic network values.
 
-** Concepts:**
+**Concepts:**
 1. Nash Equilibrium
 2. Social Welfare, Convex Optimization
 3. Braess Paradox
